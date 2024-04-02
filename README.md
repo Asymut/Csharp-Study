@@ -1,2 +1,2 @@
-# Cpp-Study
-Repozytorium do nauki języka C++
+# C# -Study
+Repozytorium do nauki języka C#
