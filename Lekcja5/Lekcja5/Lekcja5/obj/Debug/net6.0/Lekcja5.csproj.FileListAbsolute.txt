@@ -1,0 +1,15 @@
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja5\Lekcja5\Lekcja5\bin\Debug\net6.0\Lekcja5.exe
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja5\Lekcja5\Lekcja5\bin\Debug\net6.0\Lekcja5.deps.json
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja5\Lekcja5\Lekcja5\bin\Debug\net6.0\Lekcja5.runtimeconfig.json
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja5\Lekcja5\Lekcja5\bin\Debug\net6.0\Lekcja5.dll
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja5\Lekcja5\Lekcja5\bin\Debug\net6.0\Lekcja5.pdb
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja5\Lekcja5\Lekcja5\obj\Debug\net6.0\Lekcja5.csproj.AssemblyReference.cache
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja5\Lekcja5\Lekcja5\obj\Debug\net6.0\Lekcja5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja5\Lekcja5\Lekcja5\obj\Debug\net6.0\Lekcja5.AssemblyInfoInputs.cache
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja5\Lekcja5\Lekcja5\obj\Debug\net6.0\Lekcja5.AssemblyInfo.cs
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja5\Lekcja5\Lekcja5\obj\Debug\net6.0\Lekcja5.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja5\Lekcja5\Lekcja5\obj\Debug\net6.0\Lekcja5.dll
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja5\Lekcja5\Lekcja5\obj\Debug\net6.0\refint\Lekcja5.dll
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja5\Lekcja5\Lekcja5\obj\Debug\net6.0\Lekcja5.pdb
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja5\Lekcja5\Lekcja5\obj\Debug\net6.0\Lekcja5.genruntimeconfig.cache
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja5\Lekcja5\Lekcja5\obj\Debug\net6.0\ref\Lekcja5.dll
