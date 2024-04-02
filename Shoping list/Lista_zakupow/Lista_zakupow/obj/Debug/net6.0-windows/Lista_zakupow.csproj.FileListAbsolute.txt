@@ -1,0 +1,17 @@
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Lista zakupów\Lista_zakupow\Lista_zakupow\bin\Debug\net6.0-windows\Lista_zakupow.exe
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Lista zakupów\Lista_zakupow\Lista_zakupow\bin\Debug\net6.0-windows\Lista_zakupow.deps.json
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Lista zakupów\Lista_zakupow\Lista_zakupow\bin\Debug\net6.0-windows\Lista_zakupow.runtimeconfig.json
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Lista zakupów\Lista_zakupow\Lista_zakupow\bin\Debug\net6.0-windows\Lista_zakupow.dll
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Lista zakupów\Lista_zakupow\Lista_zakupow\bin\Debug\net6.0-windows\Lista_zakupow.pdb
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Lista zakupów\Lista_zakupow\Lista_zakupow\obj\Debug\net6.0-windows\Lista_zakupow.csproj.AssemblyReference.cache
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Lista zakupów\Lista_zakupow\Lista_zakupow\obj\Debug\net6.0-windows\Lista_zakupow.Form1.resources
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Lista zakupów\Lista_zakupow\Lista_zakupow\obj\Debug\net6.0-windows\Lista_zakupow.csproj.GenerateResource.cache
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Lista zakupów\Lista_zakupow\Lista_zakupow\obj\Debug\net6.0-windows\Lista_zakupow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Lista zakupów\Lista_zakupow\Lista_zakupow\obj\Debug\net6.0-windows\Lista_zakupow.AssemblyInfoInputs.cache
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Lista zakupów\Lista_zakupow\Lista_zakupow\obj\Debug\net6.0-windows\Lista_zakupow.AssemblyInfo.cs
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Lista zakupów\Lista_zakupow\Lista_zakupow\obj\Debug\net6.0-windows\Lista_zakupow.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Lista zakupów\Lista_zakupow\Lista_zakupow\obj\Debug\net6.0-windows\Lista_zakupow.dll
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Lista zakupów\Lista_zakupow\Lista_zakupow\obj\Debug\net6.0-windows\refint\Lista_zakupow.dll
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Lista zakupów\Lista_zakupow\Lista_zakupow\obj\Debug\net6.0-windows\Lista_zakupow.pdb
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Lista zakupów\Lista_zakupow\Lista_zakupow\obj\Debug\net6.0-windows\Lista_zakupow.genruntimeconfig.cache
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Lista zakupów\Lista_zakupow\Lista_zakupow\obj\Debug\net6.0-windows\ref\Lista_zakupow.dll
