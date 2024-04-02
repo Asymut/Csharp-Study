@@ -1,0 +1,15 @@
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja9Linq\Lekcja9Linq\Lekcja9Linq\bin\Debug\net6.0\Lekcja9Linq.exe
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja9Linq\Lekcja9Linq\Lekcja9Linq\bin\Debug\net6.0\Lekcja9Linq.deps.json
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja9Linq\Lekcja9Linq\Lekcja9Linq\bin\Debug\net6.0\Lekcja9Linq.runtimeconfig.json
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja9Linq\Lekcja9Linq\Lekcja9Linq\bin\Debug\net6.0\Lekcja9Linq.dll
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja9Linq\Lekcja9Linq\Lekcja9Linq\bin\Debug\net6.0\Lekcja9Linq.pdb
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja9Linq\Lekcja9Linq\Lekcja9Linq\obj\Debug\net6.0\Lekcja9Linq.csproj.AssemblyReference.cache
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja9Linq\Lekcja9Linq\Lekcja9Linq\obj\Debug\net6.0\Lekcja9Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja9Linq\Lekcja9Linq\Lekcja9Linq\obj\Debug\net6.0\Lekcja9Linq.AssemblyInfoInputs.cache
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja9Linq\Lekcja9Linq\Lekcja9Linq\obj\Debug\net6.0\Lekcja9Linq.AssemblyInfo.cs
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja9Linq\Lekcja9Linq\Lekcja9Linq\obj\Debug\net6.0\Lekcja9Linq.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja9Linq\Lekcja9Linq\Lekcja9Linq\obj\Debug\net6.0\Lekcja9Linq.dll
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja9Linq\Lekcja9Linq\Lekcja9Linq\obj\Debug\net6.0\refint\Lekcja9Linq.dll
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja9Linq\Lekcja9Linq\Lekcja9Linq\obj\Debug\net6.0\Lekcja9Linq.pdb
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja9Linq\Lekcja9Linq\Lekcja9Linq\obj\Debug\net6.0\Lekcja9Linq.genruntimeconfig.cache
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja9Linq\Lekcja9Linq\Lekcja9Linq\obj\Debug\net6.0\ref\Lekcja9Linq.dll
