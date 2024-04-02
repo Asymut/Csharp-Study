@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "kolko_krzyzyk/1.0.0": {
+        "runtime": {
+          "kolko_krzyzyk.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kolko_krzyzyk/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

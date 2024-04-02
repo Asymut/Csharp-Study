@@ -1,0 +1,17 @@
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Kółko krzyżyk\kolko_krzyzyk\kolko_krzyzyk\bin\Debug\net6.0-windows\kolko_krzyzyk.exe
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Kółko krzyżyk\kolko_krzyzyk\kolko_krzyzyk\bin\Debug\net6.0-windows\kolko_krzyzyk.deps.json
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Kółko krzyżyk\kolko_krzyzyk\kolko_krzyzyk\bin\Debug\net6.0-windows\kolko_krzyzyk.runtimeconfig.json
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Kółko krzyżyk\kolko_krzyzyk\kolko_krzyzyk\bin\Debug\net6.0-windows\kolko_krzyzyk.dll
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Kółko krzyżyk\kolko_krzyzyk\kolko_krzyzyk\bin\Debug\net6.0-windows\kolko_krzyzyk.pdb
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Kółko krzyżyk\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\net6.0-windows\kolko_krzyzyk.csproj.AssemblyReference.cache
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Kółko krzyżyk\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\net6.0-windows\kolko_krzyzyk.Form1.resources
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Kółko krzyżyk\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\net6.0-windows\kolko_krzyzyk.csproj.GenerateResource.cache
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Kółko krzyżyk\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\net6.0-windows\kolko_krzyzyk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Kółko krzyżyk\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\net6.0-windows\kolko_krzyzyk.AssemblyInfoInputs.cache
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Kółko krzyżyk\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\net6.0-windows\kolko_krzyzyk.AssemblyInfo.cs
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Kółko krzyżyk\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\net6.0-windows\kolko_krzyzyk.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Kółko krzyżyk\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\net6.0-windows\kolko_krzyzyk.dll
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Kółko krzyżyk\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\net6.0-windows\refint\kolko_krzyzyk.dll
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Kółko krzyżyk\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\net6.0-windows\kolko_krzyzyk.pdb
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Kółko krzyżyk\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\net6.0-windows\kolko_krzyzyk.genruntimeconfig.cache
+C:\Users\kamil\OneDrive\Pulpit\C#\WindowsForms\Kółko krzyżyk\kolko_krzyzyk\kolko_krzyzyk\obj\Debug\net6.0-windows\ref\kolko_krzyzyk.dll
