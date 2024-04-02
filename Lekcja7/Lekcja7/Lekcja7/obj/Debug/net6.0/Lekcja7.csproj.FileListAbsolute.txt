@@ -1,0 +1,15 @@
+C:\Users\kamil\Desktop\C#\Lekcja7\Lekcja7\Lekcja7\bin\Debug\net6.0\Lekcja7.exe
+C:\Users\kamil\Desktop\C#\Lekcja7\Lekcja7\Lekcja7\bin\Debug\net6.0\Lekcja7.deps.json
+C:\Users\kamil\Desktop\C#\Lekcja7\Lekcja7\Lekcja7\bin\Debug\net6.0\Lekcja7.runtimeconfig.json
+C:\Users\kamil\Desktop\C#\Lekcja7\Lekcja7\Lekcja7\bin\Debug\net6.0\Lekcja7.dll
+C:\Users\kamil\Desktop\C#\Lekcja7\Lekcja7\Lekcja7\bin\Debug\net6.0\Lekcja7.pdb
+C:\Users\kamil\Desktop\C#\Lekcja7\Lekcja7\Lekcja7\obj\Debug\net6.0\Lekcja7.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\C#\Lekcja7\Lekcja7\Lekcja7\obj\Debug\net6.0\Lekcja7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\C#\Lekcja7\Lekcja7\Lekcja7\obj\Debug\net6.0\Lekcja7.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\C#\Lekcja7\Lekcja7\Lekcja7\obj\Debug\net6.0\Lekcja7.AssemblyInfo.cs
+C:\Users\kamil\Desktop\C#\Lekcja7\Lekcja7\Lekcja7\obj\Debug\net6.0\Lekcja7.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\C#\Lekcja7\Lekcja7\Lekcja7\obj\Debug\net6.0\Lekcja7.dll
+C:\Users\kamil\Desktop\C#\Lekcja7\Lekcja7\Lekcja7\obj\Debug\net6.0\refint\Lekcja7.dll
+C:\Users\kamil\Desktop\C#\Lekcja7\Lekcja7\Lekcja7\obj\Debug\net6.0\Lekcja7.pdb
+C:\Users\kamil\Desktop\C#\Lekcja7\Lekcja7\Lekcja7\obj\Debug\net6.0\Lekcja7.genruntimeconfig.cache
+C:\Users\kamil\Desktop\C#\Lekcja7\Lekcja7\Lekcja7\obj\Debug\net6.0\ref\Lekcja7.dll
