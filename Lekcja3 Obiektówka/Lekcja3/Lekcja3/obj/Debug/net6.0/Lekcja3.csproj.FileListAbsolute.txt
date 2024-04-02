@@ -1,0 +1,15 @@
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja3 Obiektówka\Lekcja3\Lekcja3\bin\Debug\net6.0\Lekcja3.exe
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja3 Obiektówka\Lekcja3\Lekcja3\bin\Debug\net6.0\Lekcja3.deps.json
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja3 Obiektówka\Lekcja3\Lekcja3\bin\Debug\net6.0\Lekcja3.runtimeconfig.json
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja3 Obiektówka\Lekcja3\Lekcja3\bin\Debug\net6.0\Lekcja3.dll
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja3 Obiektówka\Lekcja3\Lekcja3\bin\Debug\net6.0\Lekcja3.pdb
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja3 Obiektówka\Lekcja3\Lekcja3\obj\Debug\net6.0\Lekcja3.csproj.AssemblyReference.cache
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja3 Obiektówka\Lekcja3\Lekcja3\obj\Debug\net6.0\Lekcja3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja3 Obiektówka\Lekcja3\Lekcja3\obj\Debug\net6.0\Lekcja3.AssemblyInfoInputs.cache
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja3 Obiektówka\Lekcja3\Lekcja3\obj\Debug\net6.0\Lekcja3.AssemblyInfo.cs
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja3 Obiektówka\Lekcja3\Lekcja3\obj\Debug\net6.0\Lekcja3.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja3 Obiektówka\Lekcja3\Lekcja3\obj\Debug\net6.0\Lekcja3.dll
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja3 Obiektówka\Lekcja3\Lekcja3\obj\Debug\net6.0\refint\Lekcja3.dll
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja3 Obiektówka\Lekcja3\Lekcja3\obj\Debug\net6.0\Lekcja3.pdb
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja3 Obiektówka\Lekcja3\Lekcja3\obj\Debug\net6.0\Lekcja3.genruntimeconfig.cache
+C:\Users\kamil\OneDrive\Pulpit\C#\Lekcja3 Obiektówka\Lekcja3\Lekcja3\obj\Debug\net6.0\ref\Lekcja3.dll
